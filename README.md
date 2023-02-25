@@ -1,6 +1,7 @@
 
 
-![This is a alt text.](https://firebasestorage.googleapis.com/v0/b/dtd-blog-8bed5.appspot.com/o/original-9ec8da9ea781e6863e4e76ae952fa60d.gif?alt=media&token=380ce626-eb3d-4f38-9930-5a282483db66)
+<br /><br />
+<img src="https://firebasestorage.googleapis.com/v0/b/dtd-blog-8bed5.appspot.com/o/original-9ec8da9ea781e6863e4e76ae952fa60d.gif?alt=media&token=380ce626-eb3d-4f38-9930-5a282483db66"  width="100%" height="400">
 <br /><br />
 
 ### Top Repositories
