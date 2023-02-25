@@ -1,28 +1,29 @@
-
-
-<br /><br />
-<img  align="center" src="https://firebasestorage.googleapis.com/v0/b/dtd-blog-8bed5.appspot.com/o/ezgif.com-optimize.gif?alt=media&token=7bb361ea-7ce7-40c6-8306-017029fa5bdb"  width="600" height="300">
-<br /> <br /> 
-
-
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/Ahmedelwaafy/DTD-Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelwaafy&repo=DTD-Blog&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a><a href="https://github.com/Ahmedelwaafy/Nike-Ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelwaafy&repo=Nike-Ecommerce&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/Ahmedelwaafy/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelwaafy&repo=Portfolio&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br />
-<br /><br />
-
 Hi 👋 My name is Ahmed ElWafy
 =============================
 
 Front End Developer
 -------------------
 
+<br />
+
+<p align="center">
+    <img   src="https://firebasestorage.googleapis.com/v0/b/dtd-blog-8bed5.appspot.com/o/ezgif.com-optimize.gif?alt=media&token=7bb361ea-7ce7-40c6-8306-017029fa5bdb"  width="600" height="300" />
+</p>
+
 I'm Front-End Developer Skilled in HTML, CSS, JavaScript, and React.js. And Excels at Creating Pixel-Perfect Designs. Also, Skilled in UI/UX Design and SEO Fundamentals.
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [Ahmed ELWafy](http://portfolio-ahmedelwaafy.vercel.app/)
 * ✉️  You can contact me at [Ahmedelwaafy@gmail.com](mailto:Ahmedelwaafy@gmail.com)
+
+<br />
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/Ahmedelwaafy/DTD-Blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelwaafy&repo=DTD-Blog&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a><a href="https://github.com/Ahmedelwaafy/Nike-Ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelwaafy&repo=Nike-Ecommerce&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ahmedelwaafy/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedelwaafy&repo=Portfolio&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ### Skills
 
@@ -43,10 +44,13 @@ I'm Front-End Developer Skilled in HTML, CSS, JavaScript, and React.js. And Exce
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+<br />
 
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/Ahmedelwaafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/Ahmedelwaafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/ahmedelwaafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Ahmedelwaafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmedelwaafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20959641/ahmed-elwafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ahmedelwaafy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<br />
 
 ### Badges
 
@@ -60,3 +64,4 @@ I'm Front-End Developer Skilled in HTML, CSS, JavaScript, and React.js. And Exce
 
 <a href="https://github.com/Ahmedelwaafy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedelwaafy&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+###### Animation by [Domingo]( https://dribbble.com/shots/18555670-Here-is-my-ID-sir)
